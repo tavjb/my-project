@@ -1,1 +1,11 @@
-funczia rashi() {	tadpis(hibur(5, 5))}funczia hibur(a: Mispar, b: Mispar) {	tahzir a + b}funczia akavish() {sout salamtak}
+funczia rashi() {
+	tadpis(hibur(5, 5))
+}
+
+funczia hibur(a: Mispar, b: Mispar) {
+	tahzir a + b
+}
+
+funczia akavish() {
+    sout salamtak
+}
